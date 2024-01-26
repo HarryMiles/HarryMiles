@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarryMiles
-- 👀 I’m interested in Music, crrently in 2 bands
+- 👀 I’m interested in Music, currently in 2 bands
 - 🌱 I’m currently learning code institue full stack developer course
 - 💞️ I’m looking to collaborate on anything that will help me learn more about coding!
 - 📫 How to reach me just drop a message
